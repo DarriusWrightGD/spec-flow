@@ -1,0 +1,5 @@
+C:\Users\darrius.wright\Documents\Code\spec-flow\GameCore.Specs\GameCore\bin\Debug\GameCore.dll
+C:\Users\darrius.wright\Documents\Code\spec-flow\GameCore.Specs\GameCore\bin\Debug\GameCore.pdb
+C:\Users\darrius.wright\Documents\Code\spec-flow\GameCore.Specs\GameCore\obj\Debug\GameCore.csprojResolveAssemblyReference.cache
+C:\Users\darrius.wright\Documents\Code\spec-flow\GameCore.Specs\GameCore\obj\Debug\GameCore.dll
+C:\Users\darrius.wright\Documents\Code\spec-flow\GameCore.Specs\GameCore\obj\Debug\GameCore.pdb
